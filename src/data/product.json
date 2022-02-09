@@ -1,0 +1,98 @@
+[
+	{
+		"id": "1",
+		"title": "5 bedroom mansion in Ajah",
+		"description": "Beautiful terrace located in a serene environment",
+		"price": "N400M",
+		"imgUrl": "https://nigerianhouseplans.com/wp-content/uploads/2019/09/5030-v2.jpg",
+		"productLink": "5-bedroom-mansion-in-ajah"
+	},
+	{
+		"id": "2",
+		"title": "4 bedroom duplex in Lekki Phase 1",
+		"description": "Well furnished with swimming pool",
+		"price": "N550M",
+		"imgUrl": "https://nigerianbuildingdesigns.com/wp-content/uploads/2019/10/5-bedroom-duplex-white-1-1.jpg",
+		"productLink": "4-bedroom-duplex-in-lekki-phase1"
+	},
+	{
+		"id": "3",
+		"title": "5 bedroom flat in Ikoyi",
+		"description": "Luxuriously decorated apartment located in Banana Island",
+		"price": "N450M",
+		"imgUrl": "https://www.pinoyeplans.com/wp-content/uploads/2019/08/3-bedroom-design-04.jpg",
+		"productLink": "5-bedroom-flat-in-ikoyi"
+	},
+	{
+		"id": "4",
+		"title": "8 bedroom duplex in Lekki Phase 1",
+		"description": "Luxury private apartment",
+		"price": "N700M",
+		"imgUrl": "https://nigerianhouseplans.com/wp-content/uploads/2017/01/5-bedroom-duplex-2-bedroom-block-of-flats-2.jpg",
+		"productLink": "8-bedroom-duplex-in-lekki-phase1"
+	},
+	{
+		"id": "5",
+		"title": "3 bedroom flat in Surulere",
+		"description": "Beautiful terrace located in a serene environment",
+		"price": "N300M",
+		"imgUrl": "https://2.bp.blogspot.com/-Otn8ENtV8bg/WrlpIbFBvXI/AAAAAAAAEos/AJ65wkTJEHYz85JJwszsqmGOF8VUclg9gCPcBGAYYCw/s1600/IMG-20180322-WA0004.jpg",
+		"productLink": "3-bedroom-flat-in-surulere"
+	},
+	{
+		"id": "6",
+		"title": "6 bedroom mansion in Yaba",
+		"description": "Well furnished with swimming pool in a serene estate",
+		"price": "N900M",
+		"imgUrl": "https://i.pinimg.com/originals/80/58/c0/8058c001a2c0aeb2784d38b77765396a.jpg",
+		"productLink": "6-bedroom-mansion-in-yaba"
+	},
+	{
+		"id": "7",
+		"title": "5 bedroom apartment in Omole",
+		"description": "Well furnished apartment located in a well-secured estate",
+		"price": "N430M",
+		"imgUrl": "https://nigerianhouseplans.com/wp-content/uploads/2018/09/nigerianhouseplans-5025-V4.jpg",
+		"productLink": "5-bedroom-apartment-in-omole"
+	},
+	{
+		"id": "8",
+		"title": "6 bedroom bungalow in Magodo",
+		"description": "Beautifully decorated with furniture and air-conditioners",
+		"price": "N600M",
+		"imgUrl": "https://houseplanng.com/wp-content/uploads/wp-realestate-uploads/_property_gallery/2021/02/6-bedroom-bungalow-hp2.jpg",
+		"productLink": "6-bedroom-bungalow-in-magodo"
+	},
+	{
+		"id": "9",
+		"title": "4 bedroom flat in Ajah",
+		"description": "Nicely decorated located in a serene environment",
+		"price": "N5M",
+		"imgUrl": "https://images.nigeriapropertycentre.com/properties/images/832832/0600449ef13861-luxury-4-bedroom-flat-with-pop-detached-bungalows-for-sale-ikotun-lagos.jpg",
+		"productLink": "4-bedroom-flat-in-ajah"
+	},
+	{
+		"id": "10",
+		"title": "3 bedroom flat in Ikeja",
+		"description": "Well furnished located in the capital city of Lagos",
+		"price": "N450M",
+		"imgUrl": "https://nigerianhouseplans.com/wp-content/uploads/2017/08/8.jpg",
+		"productLink": "3-bedroom-flat-in-ikeja"
+	},
+	{
+		"id": "11",
+		"title": "6 bedroom mansion in Gbagada",
+		"description": "Beautiful terrace located in the centre of Lagos",
+		"price": "N750M",
+		"imgUrl": "https://www.abujaproperties.com/wp-content/uploads/2018/12/AM1.png",
+		"productLink": "6-bedroom-mansion-in-gbagada"
+	},
+	{
+		"id": "12",
+		"title": "Well furnished office space in VI",
+		"description": "Beautiful terrace located in the business hub of Lagos",
+		"price": "N400M",
+		"imgUrl": "https://southernmovingstorage.com/wp-content/uploads/2020/07/037eac43-8db1-42fc-9018-be5681802680.jpg",
+		"productLink": "well-furnished-office-space-in-victoria-island"
+	}
+]
