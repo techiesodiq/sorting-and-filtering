@@ -11,13 +11,15 @@ const Search = ({onSearch}) => {
 	const desktopScreenSearch = (
 		<Paper
 			component="form"
-			sx={{
-				p: "2px 4px",
-				display: "flex",
-				alignItems: "center",
-				width: "35%",
-				maxWidth: "100%",
-			}}
+			sx={
+				{
+					// p: "2px 4px",
+					// display: "flex",
+					// alignItems: "center",
+					// width: "35%",
+					// maxWidth: "100%",
+				}
+			}
 		>
 			<InputBase
 				sx={{ml: 1, flex: 1}}
